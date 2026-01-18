@@ -565,6 +565,6 @@ p2 <- ggplot(polar_df2, aes(x = interval_label, y = y, fill = rel_pace)) +
 p2
 
 ggsave("output/plot1_finish_times.png", p1, width = 15, height = 9, dpi = 300)
-ggsave("output/plot2_polar_pace.png",  p2, width = 15, height = 9, dpi = 300, bg ="white")
+ggsave("output/plot2_polar_pace.png",  p2, width = 10.5, height = 8, dpi = 300, bg ="white")
 
 
