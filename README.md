@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nicolaiwittke/marathon-viz/HEAD)
+
 # Marathon pacing and finish-time distributions
 
 This repository reproduces two data visualizations based on publicly available
