@@ -14,13 +14,14 @@ All figures are generated from scratch using the included Excel files to ensure 
 ## Quick start (Binder — runs in the browser)
 
 1. Click the **Binder badge** at the top of this page.
-2. Once the environment loads, open an R console and run:
+2. Binder will launch an RStudio session in your browser.
+3. In the **Files** pane, open `analysis.R`.
+4. Run the entire code at once.
 
-    source("analysis.R")
+The script reproduces both figures and writes them to the `output/` directory.
 
-3. The script reproduces both figures and writes them to the `output/` directory.
+> Note: The first Binder launch may take a few minutes while required packages are installed.
 
-> Note: The first Binder launch may take a few minutes while packages are installed.
 
 ---
 
@@ -39,11 +40,12 @@ All figures are generated from scratch using the included Excel files to ensure 
 
 ### Run the analysis
 
-From the repository root directory:
+1. Open `analysis.R` in RStudio.
+2. Set the correct working directory.
+3. Run the entire script (e.g., using **Source**).
 
-    source("analysis.R")
+All figures will be generated automatically in the `output/` directory.
 
-All figures will be generated automatically.
 
 ---
 
