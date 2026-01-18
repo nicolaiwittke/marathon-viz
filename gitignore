@@ -1,0 +1,11 @@
+# R session / history
+.Rhistory
+.RData
+.Ruserdata
+
+# OS files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
