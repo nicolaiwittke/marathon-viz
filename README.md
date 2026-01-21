@@ -82,4 +82,4 @@ The original Excel files are included in this repository to ensure reproducibili
 ## AI disclosure
 
 ChatGPT was used as a coding assistant for specific data-preparation tasks (e.g., handling Excel time formats, parsing split times, and scaling density curves to align with histogram counts).  
-All visualization design choices, analytical decisions, and interpretations were developed and finalized by the author.
+All visualization design choices, analytical decisions, and interpretations were developed and finalized by the authors: Nicolai Wittke, Florian Kübe, Julia Klauck,  Polimnia Tsiafaki.
